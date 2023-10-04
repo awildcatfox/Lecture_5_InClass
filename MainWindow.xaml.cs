@@ -24,5 +24,16 @@ namespace Lecture_5_InClass
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            // MessageBox
+            // Pop up window that displays information
+
+            MessageBox.Show("Hi Stephanie");
+
+
+
+        } // btnContinue_Click
     }
 }
